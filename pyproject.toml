@@ -2,11 +2,11 @@
 name = "databricks-ml-bundle"
 version = "0.1.0"
 description = "CLI tool to generate Databricks ML platform project structure with governance and best practices"
-authors = ["Your Name <your.email@example.com>"]
+authors = ["Ayush Singh Rawat <ayushsinghrwat@gmail.com>"]
 readme = "README.md"
-homepage = "https://github.com/yourusername/databricks-ml-bundle-cli"
-repository = "https://github.com/yourusername/databricks-ml-bundle-cli"
-documentation = "https://github.com/yourusername/databricks-ml-bundle-cli"
+homepage = "https://github.com/AyushSinghRawat-hub/databricks-ml-bundle-cli"
+repository = "https://github.com/AyushSinghRawat-hub/databricks-ml-bundle-cli"
+documentation = "https://github.com/AyushSinghRawat-hub/databricks-ml-bundle-cli"
 keywords = ["databricks", "mlops", "ml-platform", "template", "cli"]
 classifiers = [
     "Development Status :: 4 - Beta",
