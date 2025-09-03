@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "databricks-ml-bundle"
-version = "0.1.0"
+version = "0.1.2"
 description = "CLI tool to generate Databricks ML platform project structure with governance and best practices"
-authors = ["Ayush Singh Rawat <ayushsinghrwat@gmail.com>"]
+authors = ["Ayush Singh Rawat <ayushreawat4583@gmail.com>"]
 readme = "README.md"
 homepage = "https://github.com/AyushSinghRawat-hub/databricks-ml-bundle-cli"
 repository = "https://github.com/AyushSinghRawat-hub/databricks-ml-bundle-cli"

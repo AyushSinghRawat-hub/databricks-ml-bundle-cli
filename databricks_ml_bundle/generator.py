@@ -95,6 +95,8 @@ class ProjectGenerator:
             ("jobs/job_batch_inference.yml.j2", "jobs/job_batch_inference.yml"),
             ("policies/cluster_policy_restricted.json.j2", "policies/cluster_policy_restricted.json"),
             ("policies/serving_policy_serverless.json.j2", "policies/serving_policy_serverless.json"),
+            ("policies/email_notifications.json.j2", "policies/email_notifications.json"),
+            ("policies/mlflow_policy.json.j2", "policies/mlflow_policy.json"),
             ("ci/github-actions.yml.j2", "ci/github-actions.yml"),
             ("docs/GOVERNANCE.md.j2", "docs/GOVERNANCE.md")
         ]
